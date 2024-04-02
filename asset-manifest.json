@@ -1,26 +1,25 @@
 {
   "files": {
     "main.css": "/static/css/main.aad973d8.css",
-    "main.js": "/static/js/main.52405ae4.js",
-    "static/media/BackgroundVideo.mp4": "/static/media/BackgroundVideo.bea7a786473c7d02baa9.mp4",
-    "static/media/Gallery_Photo_10.jpg": "/static/media/Gallery_Photo_10.2e37b37dec6737ecfaca.jpg",
-    "static/media/Gallery_Photo_5.jpg": "/static/media/Gallery_Photo_5.75e52354c294a19e902c.jpg",
+    "main.js": "/static/js/main.a4f08a15.js",
+    "static/media/Gallery_Photo_10.jpg": "/static/media/Gallery_Photo_10.813d2cf415900aa461a9.jpg",
+    "static/media/Gallery_Photo_8.jpg": "/static/media/Gallery_Photo_8.75e52354c294a19e902c.jpg",
     "static/media/Gallery_Photo_9.jpg": "/static/media/Gallery_Photo_9.ec6fddc9a0e02683d1e9.jpg",
-    "static/media/Gallery_Photo_3.jpg": "/static/media/Gallery_Photo_3.3e08cc8d77407d54f875.jpg",
-    "static/media/Gallery_Photo_8.jpg": "/static/media/Gallery_Photo_8.ee1de37a38246d48b767.jpg",
-    "static/media/Gallery_Photo_6.jpg": "/static/media/Gallery_Photo_6.237d4a544497387def01.jpg",
-    "static/media/Gallery_Photo_4.jpg": "/static/media/Gallery_Photo_4.9daa54050e10cd9a610b.jpg",
+    "static/media/Gallery_Photo_6.jpg": "/static/media/Gallery_Photo_6.bc25d7af8de627dea12f.jpg",
+    "static/media/Gallery_Photo_7.jpg": "/static/media/Gallery_Photo_7.ee1de37a38246d48b767.jpg",
+    "static/media/Gallery_Photo_4.jpg": "/static/media/Gallery_Photo_4.f10826984f7769a00978.jpg",
+    "static/media/Gallery_Photo_3.jpg": "/static/media/Gallery_Photo_3.237d4a544497387def01.jpg",
+    "static/media/Gallery_Photo_2.jpg": "/static/media/Gallery_Photo_2.0f824456be35cd7bb378.jpg",
+    "static/media/Gallery_Photo_5.jpg": "/static/media/Gallery_Photo_5.9daa54050e10cd9a610b.jpg",
     "static/media/Gallery_Photo_1.jpg": "/static/media/Gallery_Photo_1.bc49f7cde39ec9f39f45.jpg",
-    "static/media/Gallery_Photo_7.jpg": "/static/media/Gallery_Photo_7.527216ef82f796404809.jpg",
-    "static/media/Gallery_Photo_2.jpg": "/static/media/Gallery_Photo_2.4adf471f1c1dd68860cd.jpg",
     "static/media/LocationMap.png": "/static/media/LocationMap.781e70d86a4b3b0cd458.png",
     "static/media/GroovePaper.png": "/static/media/GroovePaper.33326b07913fac2781bb.png",
     "index.html": "/index.html",
     "main.aad973d8.css.map": "/static/css/main.aad973d8.css.map",
-    "main.52405ae4.js.map": "/static/js/main.52405ae4.js.map"
+    "main.a4f08a15.js.map": "/static/js/main.a4f08a15.js.map"
   },
   "entrypoints": [
     "static/css/main.aad973d8.css",
-    "static/js/main.52405ae4.js"
+    "static/js/main.a4f08a15.js"
   ]
 }
